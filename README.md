@@ -17,7 +17,7 @@ As a regular customer to the yang electronic stores in Bouston, I came in on a s
 ![](https://github.com/Datagirlie/Electronics-Sales-analysis/blob/main/Dashbaord%20Analysis/Mrwang%202.jpg)
 
 
-I shared my knowledge with him about data and analysing data, he seemed quite impressed with my knowledge. I assured him that i will look into his data and give him feedback. "Please try your best, my business expansion is counting on this analysis", those were Mr Wang's words as i retrieved the data.
+I shared my knowledge with him about data and analysing data. He was impressed with my knowledge and happy that someone finally understood what him. I assured him that i will look into his data, analyze it and give him feedback. "Please try your best, my business expansion is counting on this analysis", those were Mr Wang's words as i retrieved the data.
 
 ![](https://github.com/Datagirlie/Electronics-Sales-analysis/blob/main/Dashbaord%20Analysis/Mr%20wang.jpg)
 
