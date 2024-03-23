@@ -85,7 +85,7 @@ San Francisco is a global center of economic activity spurred by leading univeri
 
 ![](https://github.com/Datagirlie/Electronics-Sales-analysis/blob/main/Dashbaord%20Analysis/Sheet%203%20(2).png)
 
-# Conclusion and  Reccomendation.
+# Conclusion and  Reccomendations.
 Base on this data, this business is on a good note for expansion. The policies set to run this business have helped it to grow a very high profit margin in just 1 year, which is a great start.
 
 However, for continuity of sales and increase in profit i would reccomend the following:
