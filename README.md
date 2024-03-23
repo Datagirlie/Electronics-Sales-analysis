@@ -4,6 +4,8 @@
 
 _This project was done to implement my Business Analytics skills._
 
+_I used Tableau(Data Visualization) and Microsoft Excel(Data Analysis) tools._
+
 ![](https://github.com/Datagirlie/Electronics-Sales-analysis/blob/main/Dashbaord%20Analysis/electronic%20store%20imge.jpg)
 
 Growing up as a young lad, Mr Wang have always dreamed of having his own business and being his own boss. This finally became a reality for him in 2019, when he opened the **Yang Electronics Store**, shortly after retiring as an electrical engineer from an automobile company. The business expanded during the year into 9 major cities in the US, from selling electronic accessories (cables, wires, battries, headphones) to selling household elctronic devices (TVs, Dryers, Washing machines) and even gadgets (Phones, Laptops, Monitors). 
