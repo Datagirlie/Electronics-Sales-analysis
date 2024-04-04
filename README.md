@@ -97,7 +97,7 @@ However, for continuity of sales and increase in profit i would reccomend the fo
 - More stores can be opened in San Francisco to help generate more revenue in the sales.
 - Adding more gadgets acessories like airpods, phone chargers can also help to increase the sales of items, especially in cities like Austin that have low sales and people buy more accessories than gadgets.
 - Identify the most recquired and sold item in each city and stock up product based on what is demanded in that city.
-- Before any new store in open in any city, a survey should be carried out to know the type of electronics mostly used based on lifestyle and professional services by the people in that city. This will help in purchasig the right items for sale in that region.
+- Before any new store is open in any city, a survey should be carried out to know the type of electronics mostly used based on lifestyle and professional services by the people in that city. This will help in purchasing the right items for sale in that region.
 
 ![](https://github.com/Datagirlie/Electronics-Sales-analysis/blob/main/Dashbaord%20Analysis/Thank%20you..jpg)
 
