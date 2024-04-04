@@ -94,7 +94,7 @@ San Francisco is a global center of economic activity spurred by leading univeri
 Base on this data, this business is on a good note for expansion. The policies set to run this business have helped it to grow a very high profit margin in just 1 year, which is a great start.
 
 However, for continuity of sales and increase in profit i would reccomend the following:
-- More stores can be opened in San Francisco to help cause more revenue in the sales.
+- More stores can be opened in San Francisco to help generate more revenue in the sales.
 - Adding more gadgets acessories like airpods, phone chargers can also help to increase the sales of items, especially in cities like Austin that have low sales and people buy more accessories than gadgets.
 - Identify the most recquired and sold item in each city and stock up product based on what is demanded in that city.
 - Before any new store in open in any city, a survey should be carried out to know the type of electronics mostly used based on lifestyle and professional services by the people in that city. This will help in purchasig the right items for sale in that region.
